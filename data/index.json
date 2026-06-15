@@ -1,0 +1,366 @@
+[
+  {
+    "file": "Admin Notes.txt",
+    "sentence": "Administrative Notes\n\nAdmin Console 2 is located in Lab 3.",
+    "tokens": [
+      "administrative",
+      "notes",
+      "admin",
+      "console",
+      "is",
+      "located",
+      "in",
+      "lab"
+    ]
+  },
+  {
+    "file": "Admin Notes.txt",
+    "sentence": "Temporary administrator access was granted to Rahul.",
+    "tokens": [
+      "temporary",
+      "administrator",
+      "access",
+      "was",
+      "granted",
+      "to",
+      "rahul"
+    ]
+  },
+  {
+    "file": "Admin Notes.txt",
+    "sentence": "Purpose:\nNetwork troubleshooting project.",
+    "tokens": [
+      "purpose",
+      "network",
+      "troubleshooting",
+      "project"
+    ]
+  },
+  {
+    "file": "Admin Notes.txt",
+    "sentence": "Access valid until Friday.",
+    "tokens": [
+      "access",
+      "valid",
+      "until",
+      "friday"
+    ]
+  },
+  {
+    "file": "Admin Notes.txt",
+    "sentence": "Kiran supervised account creation.",
+    "tokens": [
+      "kiran",
+      "supervised",
+      "account",
+      "creation"
+    ]
+  },
+  {
+    "file": "Admin Notes.txt",
+    "sentence": "Password change was recommended but not confirmed.",
+    "tokens": [
+      "password",
+      "change",
+      "was",
+      "recommended",
+      "but",
+      "not",
+      "confirmed"
+    ]
+  },
+  {
+    "file": "CCTV  Report.txt",
+    "sentence": "CCTV Monitoring Report\n\n01:35 AM\nKiran seen entering Lab 3.",
+    "tokens": [
+      "cctv",
+      "monitoring",
+      "report",
+      "01",
+      "35",
+      "am",
+      "kiran",
+      "seen",
+      "entering",
+      "lab"
+    ]
+  },
+  {
+    "file": "CCTV  Report.txt",
+    "sentence": "01:39 AM\nKiran leaves Lab 3.",
+    "tokens": [
+      "01",
+      "39",
+      "am",
+      "kiran",
+      "leaves",
+      "lab"
+    ]
+  },
+  {
+    "file": "CCTV  Report.txt",
+    "sentence": "01:41 AM\nRahul enters Lab 3.",
+    "tokens": [
+      "01",
+      "41",
+      "am",
+      "rahul",
+      "enters",
+      "lab"
+    ]
+  },
+  {
+    "file": "CCTV  Report.txt",
+    "sentence": "01:49 AM\nRahul remains inside.",
+    "tokens": [
+      "01",
+      "49",
+      "am",
+      "rahul",
+      "remains",
+      "inside"
+    ]
+  },
+  {
+    "file": "CCTV  Report.txt",
+    "sentence": "01:53 AM\nArun enters corridor.",
+    "tokens": [
+      "01",
+      "53",
+      "am",
+      "arun",
+      "enters",
+      "corridor"
+    ]
+  },
+  {
+    "file": "CCTV  Report.txt",
+    "sentence": "01:55 AM\nRahul exits Lab 3.",
+    "tokens": [
+      "01",
+      "55",
+      "am",
+      "rahul",
+      "exits",
+      "lab"
+    ]
+  },
+  {
+    "file": "CCTV  Report.txt",
+    "sentence": "01:58 AM\nUnknown individual wearing hoodie observed.",
+    "tokens": [
+      "01",
+      "58",
+      "am",
+      "unknown",
+      "individual",
+      "wearing",
+      "hoodie",
+      "observed"
+    ]
+  },
+  {
+    "file": "CCTV  Report.txt",
+    "sentence": "02:03 AM\nIndividual enters networking room.",
+    "tokens": [
+      "02",
+      "03",
+      "am",
+      "individual",
+      "enters",
+      "networking",
+      "room"
+    ]
+  },
+  {
+    "file": "CCTV  Report.txt",
+    "sentence": "02:07 AM\nIndividual exits networking room.",
+    "tokens": [
+      "02",
+      "07",
+      "am",
+      "individual",
+      "exits",
+      "networking",
+      "room"
+    ]
+  },
+  {
+    "file": "CCTV  Report.txt",
+    "sentence": "02:14 AM\nSecurity guard patrol observed.",
+    "tokens": [
+      "02",
+      "14",
+      "am",
+      "security",
+      "guard",
+      "patrol",
+      "observed"
+    ]
+  },
+  {
+    "file": "Faculty statement.txt",
+    "sentence": "Ramesh\n\nThe Network Security examination paper was uploaded at 5 PM.",
+    "tokens": [
+      "ramesh",
+      "the",
+      "network",
+      "security",
+      "examination",
+      "paper",
+      "was",
+      "uploaded",
+      "at",
+      "pm"
+    ]
+  },
+  {
+    "file": "Faculty statement.txt",
+    "sentence": "The repository is protected by administrative permissions.",
+    "tokens": [
+      "the",
+      "repository",
+      "is",
+      "protected",
+      "by",
+      "administrative",
+      "permissions"
+    ]
+  },
+  {
+    "file": "Faculty statement.txt",
+    "sentence": "No faculty member accessed the repository after 7 PM.",
+    "tokens": [
+      "no",
+      "faculty",
+      "member",
+      "accessed",
+      "the",
+      "repository",
+      "after",
+      "pm"
+    ]
+  },
+  {
+    "file": "Faculty statement.txt",
+    "sentence": "The repository was found open during investigation.",
+    "tokens": [
+      "the",
+      "repository",
+      "was",
+      "found",
+      "open",
+      "during",
+      "investigation"
+    ]
+  },
+  {
+    "file": "Faculty statement.txt",
+    "sentence": "Several files were copied.",
+    "tokens": [
+      "several",
+      "files",
+      "were",
+      "copied"
+    ]
+  },
+  {
+    "file": "Faculty statement.txt",
+    "sentence": "No paper was officially released.",
+    "tokens": [
+      "no",
+      "paper",
+      "was",
+      "officially",
+      "released"
+    ]
+  },
+  {
+    "file": "Firewall Incident Report.txt",
+    "sentence": "Firewall Incident Report\n\nGenerated by Security Team\n\nTime: 02:30 AM\n\nFindings:\n\nFirewall manually disabled.",
+    "tokens": [
+      "firewall",
+      "incident",
+      "report",
+      "generated",
+      "by",
+      "security",
+      "team",
+      "time",
+      "02",
+      "30",
+      "am",
+      "findings",
+      "firewall",
+      "manually",
+      "disabled"
+    ]
+  },
+  {
+    "file": "Firewall Incident Report.txt",
+    "sentence": "Administrative privileges were used.",
+    "tokens": [
+      "administrative",
+      "privileges",
+      "were",
+      "used"
+    ]
+  },
+  {
+    "file": "Firewall Incident Report.txt",
+    "sentence": "Action originated from Admin Console 2.",
+    "tokens": [
+      "action",
+      "originated",
+      "from",
+      "admin",
+      "console"
+    ]
+  },
+  {
+    "file": "Firewall Incident Report.txt",
+    "sentence": "Multiple security warnings ignored.",
+    "tokens": [
+      "multiple",
+      "security",
+      "warnings",
+      "ignored"
+    ]
+  },
+  {
+    "file": "Firewall Incident Report.txt",
+    "sentence": "System generated four alerts before shutdown.",
+    "tokens": [
+      "system",
+      "generated",
+      "four",
+      "alerts",
+      "before",
+      "shutdown"
+    ]
+  },
+  {
+    "file": "Firewall Incident Report.txt",
+    "sentence": "Unauthorized remote connection established after firewall shutdown.",
+    "tokens": [
+      "unauthorized",
+      "remote",
+      "connection",
+      "established",
+      "after",
+      "firewall",
+      "shutdown"
+    ]
+  },
+  {
+    "file": "Firewall Incident Report.txt",
+    "sentence": "Connection lasted approximately 12 minutes.",
+    "tokens": [
+      "connection",
+      "lasted",
+      "approximately",
+      "12",
+      "minutes"
+    ]
+  }
+]

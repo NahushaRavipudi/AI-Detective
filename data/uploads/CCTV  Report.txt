@@ -1,0 +1,31 @@
+CCTV Monitoring Report
+
+01:35 AM
+Kiran seen entering Lab 3.
+
+01:39 AM
+Kiran leaves Lab 3.
+
+01:41 AM
+Rahul enters Lab 3.
+
+01:49 AM
+Rahul remains inside.
+
+01:53 AM
+Arun enters corridor.
+
+01:55 AM
+Rahul exits Lab 3.
+
+01:58 AM
+Unknown individual wearing hoodie observed.
+
+02:03 AM
+Individual enters networking room.
+
+02:07 AM
+Individual exits networking room.
+
+02:14 AM
+Security guard patrol observed.
